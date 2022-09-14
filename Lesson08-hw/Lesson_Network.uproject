@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{210AF35C-4F43-32E9-21F5-A2BF92FDD6BB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OnlineReplication",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": false
+		}
+	]
+}
