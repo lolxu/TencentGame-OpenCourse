@@ -1,4 +1,4 @@
-# Lesson08 - Unreal Engine Physics
+# Lesson08 - Unreal Engine Multiplayer
 
 * Here is the link to the video demo for this lesson: [link](https://drive.google.com/drive/u/1/folders/1C7_Q5CtlSeE-fFxhuSKNWZQ80T-PIe2u)
 
